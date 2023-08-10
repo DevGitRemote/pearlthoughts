@@ -24,4 +24,4 @@ jobs:
         pip install -r python-app/requirements.txt
 
     - name: Run Python app
-      run: python python-app/app.py
+      run: python py-app/app.py
