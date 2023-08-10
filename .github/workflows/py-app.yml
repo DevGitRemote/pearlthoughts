@@ -24,4 +24,4 @@ jobs:
       
 
     - name: Run Python app
-      run: python py-app/app.py
+      run: python helloworld/app.py
